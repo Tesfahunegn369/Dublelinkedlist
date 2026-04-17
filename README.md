@@ -59,6 +59,7 @@ You now have a real, reusable data structure:
 Only worked with int
 Unsafe pointer usage
 No abstraction
+
 3
 Works with any type (int, string, etc.)
 Tracks size efficiently (O(1))
