@@ -42,6 +42,7 @@ Run the executable:
 
 ./dll
 Follow the on-screen menu to perform operations.
+
 ⚠️ Note
 
 This is a basic educational implementation. Some functions may require improvements for:
